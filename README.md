@@ -1,8 +1,8 @@
-#Projeto desenvolvido na disciplina de Tópicos em Computação 1. A finalidade do projeto é criar um Bot 
-#para competir com outros Bots dentro do jogo de truco que foi desenvolvido pelo professor para fins 
-#acadêmicos.
-#O bot SilvaBrufatoBot que está dentro da pasta bot-impl foi desenvolvido por mim e um colega
-#de sala, utilizando metodologia de desenvolvimento TDD com JUnity e AssertJ
+# Projeto desenvolvido na disciplina de Tópicos em Computação 1. A finalidade do projeto é criar um Bot 
+# para competir com outros Bots dentro do jogo de truco que foi desenvolvido pelo professor para fins 
+# acadêmicos.
+# O bot SilvaBrufatoBot que está dentro da pasta bot-impl foi desenvolvido por mim e um colega
+# de sala, utilizando metodologia de desenvolvimento TDD com JUnity e AssertJ
 
 
 
